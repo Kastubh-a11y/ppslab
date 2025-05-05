@@ -57,19 +57,6 @@ Each experiment includes:
 | 25  | Sum of Complex Numbers                                               | ✅ Done |
 | 26  | Display Car Details                                                  | ✅ Done |
 
----
-
-## 📁 Folder Structure
-ppslab/
-│
-
-├── All Experiments Codes (1-26)/
-│ ├── 01_area_circle.py
-│ ├── 02_area_rectangle.py
-│ ├── ...
-│ └── 26_car_details.py
-│
-└── README.md
 
 ---
 ## 🙌 Happy Coding!
@@ -77,8 +64,5 @@ ppslab/
 If you find this helpful, feel free to ⭐️ star this repo and share with friends!
 
 ---
-🙌 Credits
-Made with 💻 and 💙 by a passionate 1st-year coder.
-Shared to help peers and future learners. Lab prep made easy!
-
-<p align="center"> ⭐ If this helped you, leave a star! <br><br> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" /> </p> ```
+📸 Sneak Peek
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzMwazB0Z3c1MXc1aDJ1aDlpM2djZmY3OHNwZThxdjF0M3doZDFmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtaO9BZHcOjmErm/giphy.gif" width="300"/> </p>
