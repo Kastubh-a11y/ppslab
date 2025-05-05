@@ -64,5 +64,3 @@ Each experiment includes:
 If you find this helpful, feel free to ⭐️ star this repo and share with friends!
 
 ---
-📸 Sneak Peek
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzMwazB0Z3c1MXc1aDJ1aDlpM2djZmY3OHNwZThxdjF0M3doZDFmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtaO9BZHcOjmErm/giphy.gif" width="300"/> </p>
