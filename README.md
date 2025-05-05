@@ -1,7 +1,7 @@
 <h1 align="center">🐍 Programming and Problem Solving (PPS) Lab in Python</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFAB&center=true&vCenter=true&width=435&lines=PPS+Lab+in+Python+✅;All+26+Experiments+Completed;Code+Ready+for+Reference+%F0%9F%93%9C;Learn+%7C+Code+%7C+Solve+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=435&lines=PPS+Lab+Completed+%F0%9F%9A%80;All+26+Experiments+Done+in+Python+%F0%9F%90%8D;Code+%2B+Logic+Well+Documented+%E2%9C%85;Keep+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 <p align="center">
