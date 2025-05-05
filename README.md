@@ -60,4 +60,24 @@ Each experiment includes:
 ---
 
 ## 📁 Folder Structure
+ppslab/
+│
+├── All Experiments Codes (1-26)/
+│ ├── 01_area_circle.py
+│ ├── 02_area_rectangle.py
+│ ├── ...
+│ └── 26_car_details.py
+│
+└── README.md
 
+---
+## 🙌 Happy Coding!
+
+If you find this helpful, feel free to ⭐️ star this repo and share with friends!
+
+---
+🙌 Credits
+Made with 💻 and 💙 by a passionate 1st-year coder.
+Shared to help peers and future learners. Lab prep made easy!
+
+<p align="center"> ⭐ If this helped you, leave a star! <br><br> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" /> </p> ```
